@@ -7,6 +7,22 @@ A Python library that makes captcha solving simple and automated with Playwright
 
 <i>(Need some help with <b>Automation</b>? You can  <a href="https://automation.techinz.dev">hire me</a> for custom development or consulting!)</i>
 
+---
+
+<div align="center">
+
+<a href="https://evomi.com?p=EPA71W2CBT">
+  <img width="600" height="158" alt="Evomi" src="https://github.com/user-attachments/assets/338609a2-bb34-474d-9038-b7852f0228bb" />
+</a>
+
+**Evomi: residential, mobile and datacenter proxies for web scraping and browser automation.**
+
+🔗 [https://evomi.com](https://evomi.com?p=EPA71W2CBT)
+
+</div>
+
+---
+
 ## ✨ What it does
 
 This framework helps you solve captchas in Playwright or Playwright-based frameworks (like Camoufox or Patchright) automatically. It will:
